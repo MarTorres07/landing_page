@@ -1,1 +1,1 @@
-This is the landing page created for the Foundations  in the Odin Project.
+This is a cat cafe landing page created for the Foundations course in the Odin Project, with everything learned so far.
