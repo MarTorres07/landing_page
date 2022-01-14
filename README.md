@@ -1,0 +1,1 @@
+This is the landing page created for the Foundations  in the Odin Project.
